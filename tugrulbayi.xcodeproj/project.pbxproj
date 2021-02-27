@@ -15,6 +15,8 @@
 		8775A2C925B817110046C39E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8775A2C725B817110046C39E /* LaunchScreen.storyboard */; };
 		8775A2D425B817110046C39E /* tugrulbayiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8775A2D325B817110046C39E /* tugrulbayiTests.swift */; };
 		8775A2DF25B817110046C39E /* tugrulbayiUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8775A2DE25B817110046C39E /* tugrulbayiUITests.swift */; };
+		8775A2F025B81ACB0046C39E /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8775A2EF25B81ACB0046C39E /* DetailsViewController.swift */; };
+		8775A2F825B82A900046C39E /* araba.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8775A2F725B82A900046C39E /* araba.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		8775A2DA25B817110046C39E /* tugrulbayiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tugrulbayiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8775A2DE25B817110046C39E /* tugrulbayiUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tugrulbayiUITests.swift; sourceTree = "<group>"; };
 		8775A2E025B817110046C39E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8775A2EF25B81ACB0046C39E /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		8775A2F725B82A900046C39E /* araba.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = araba.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,9 +107,11 @@
 				8775A2BE25B817110046C39E /* SceneDelegate.swift */,
 				8775A2C025B817110046C39E /* ViewController.swift */,
 				8775A2C225B817110046C39E /* Main.storyboard */,
+				8775A2EF25B81ACB0046C39E /* DetailsViewController.swift */,
 				8775A2C525B817110046C39E /* Assets.xcassets */,
 				8775A2C725B817110046C39E /* LaunchScreen.storyboard */,
 				8775A2CA25B817110046C39E /* Info.plist */,
+				8775A2F725B82A900046C39E /* araba.swift */,
 			);
 			path = tugrulbayi;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				8775A2C125B817110046C39E /* ViewController.swift in Sources */,
 				8775A2BD25B817110046C39E /* AppDelegate.swift in Sources */,
 				8775A2BF25B817110046C39E /* SceneDelegate.swift in Sources */,
+				8775A2F025B81ACB0046C39E /* DetailsViewController.swift in Sources */,
+				8775A2F825B82A900046C39E /* araba.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
